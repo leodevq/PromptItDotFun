@@ -44,7 +44,7 @@ To customise a variable locally, you should create a `.env.local`
 
 ## The LLM API (Large Language Model)
 
-Currently Graphica uses the OpenAI API to generate stories.
+Currently Visualizer uses the OpenAI API to generate stories.
 
 ### Option 1: Use an Image Inference API model
 
